@@ -16,7 +16,7 @@ My dashboard empowers key decision-makers, including Bank Managers and Stakehold
 
 ## Data Modeling
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4a65229b-f820-442c-b424-3c74559c3bc9/62bf4be6-3ac9-4a7a-997c-8515f465faff/Untitled.png)
+![image](https://github.com/devvaditya/BankCustomerChurnAnalysis/assets/110883375/e4319d89-893e-489f-ab0d-b3c7b6c921e3)
 
 After Loading the Data, I continued with following steps:
 
@@ -25,7 +25,8 @@ After Loading the Data, I continued with following steps:
 
 ## Dashboard
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4a65229b-f820-442c-b424-3c74559c3bc9/d9e1c747-5720-4d02-8e4e-bea12d8b5b16/Untitled.png)
+![image](https://github.com/devvaditya/BankCustomerChurnAnalysis/assets/110883375/978e245d-f375-4fd0-af57-c5e2008a753c)
+
 
 ## Key Insights
 
